@@ -6,3 +6,5 @@ The 26 melodic and rhythmic sounds that are in each set are triggered by pressin
 * CSS-3
 * Paper JS
 * Howler JS
+
+Available at: [https://aman-codes.github.io/visual-sound-kit/index.html](https://aman-codes.github.io/visual-sound-kit/index.html)
